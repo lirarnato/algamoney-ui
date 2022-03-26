@@ -19,9 +19,15 @@
   # Layout
  ## Esboço da aplicação!
 ![imagem](https://github.com/lirarnato/algamoney-api/blob/main/Layout.PNG)
- ## Parte da Programação usando a Ferramenta SpringToolSuite4!
-![Animação](https://user-images.githubusercontent.com/71908798/159828008-9685a7ce-e435-4628-848f-c4c3da081572.gif)
- 
+ ## Parte da Programação usando a IDE Visual Studio Code!
+### Tela de Pessoas-pesquisa
+ ![Animação1](https://user-images.githubusercontent.com/71908798/160251981-f30cc385-fa39-45a5-9ce6-7b176c8b51ab.gif)
+ ### Tela de Lancamentos-pesquisa
+![Animação2](https://user-images.githubusercontent.com/71908798/160252008-0075ea76-90cc-42fd-913a-fd75b9ddd569.gif)
+  ### Tela de Lancamentos-cadastro
+![Animação3](https://user-images.githubusercontent.com/71908798/160252032-7b4a4f59-8a36-4d3b-9c17-17f3c74df266.gif)
+
+
   # Tecnologias-utilizadas
   <h3>Backend</h3>
   <ul>
