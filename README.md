@@ -25,12 +25,13 @@
   # Tecnologias-utilizadas
   <h3>Backend</h3>
   <ul>
-  <li>JAVA</li>
-  <li>SPRING BOOT</li>
-  <li>PROTOCOLO HTTP</li>
-  <li>MYSQL</li>
-  <li>OAUTH2</li>
-  <li>POSTMAN</li>
+  <li>ANGULAR</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>PRIMENG</li>
+  <li>VISUAL STUDIO CODE</li>
+  <li>NODE.js</li>
+  <li>NPM</li>
   </ul>
   
   # Autor  
